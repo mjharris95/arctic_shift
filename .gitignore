@@ -4,3 +4,4 @@
 *.pyc
 
 schemas_raw
+scripts/processed_data.csv
